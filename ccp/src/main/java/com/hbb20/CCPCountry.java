@@ -1506,7 +1506,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("gu", "1", "Guam", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gw", "245", "Guinea-bissau", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gy", "592", "Guyana", DEFAULT_FLAG_RES));
-        countries.add(new CCPCountry("hk", "852", "Hong Kong", DEFAULT_FLAG_RES));
+//        countries.add(new CCPCountry("hk", "852", "Hong Kong", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("hn", "504", "Honduras", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("hr", "385", "Croatia", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("ht", "509", "Haiti", DEFAULT_FLAG_RES));
@@ -1558,7 +1558,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("ml", "223", "Mali", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("mm", "95", "Myanmar", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("mn", "976", "Mongolia", DEFAULT_FLAG_RES));
-        countries.add(new CCPCountry("mo", "853", "Macau", DEFAULT_FLAG_RES));
+//        countries.add(new CCPCountry("mo", "853", "Macau", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("mp", "1", "Northern Mariana Islands", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("mq", "596", "Martinique", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("mr", "222", "Mauritania", DEFAULT_FLAG_RES));
@@ -1636,7 +1636,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("tr", "90", "Turkey", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("tt", "1", "Trinidad &amp; Tobago", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("tv", "688", "Tuvalu", DEFAULT_FLAG_RES));
-        countries.add(new CCPCountry("tw", "886", "Taiwan", DEFAULT_FLAG_RES));
+//        countries.add(new CCPCountry("tw", "886", "Taiwan", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("tz", "255", "Tanzania, United Republic Of", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("ua", "380", "Ukraine", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("ug", "256", "Uganda", DEFAULT_FLAG_RES));

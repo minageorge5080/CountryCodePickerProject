@@ -717,11 +717,11 @@
             english_name="Mongolia"
             name_code="mn"
             phone_code="976" />
-        <country
-            name="Ma cao"
-            english_name="Macau"
-            name_code="mo"
-            phone_code="853" />
+<!--        <country-->
+<!--            name="Ma cao"-->
+<!--            english_name="Macau"-->
+<!--            name_code="mo"-->
+<!--            phone_code="853" />-->
         <country
             name="Quần đảo Bắc Mariana"
             english_name="Northern Mariana Islands"

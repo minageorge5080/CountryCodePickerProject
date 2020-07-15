@@ -457,11 +457,11 @@
             english_name="Guam"
             name_code="gu"
             phone_code="1" />
-        <country
-            name="홍콩"
-            english_name="Hong Kong"
-            name_code="hk"
-            phone_code="852" />
+<!--        <country-->
+<!--            name="홍콩"-->
+<!--            english_name="Hong Kong"-->
+<!--            name_code="hk"-->
+<!--            phone_code="852" />-->
         <country
             name="온두라스"
             english_name="Honduras"

@@ -457,11 +457,11 @@
             english_name="Guyana"
             name_code="gy"
             phone_code="592" />
-        <country
-            name="Hong Kong"
-            english_name="Hong Kong"
-            name_code="hk"
-            phone_code="852" />
+<!--        <country-->
+<!--            name="Hong Kong"-->
+<!--            english_name="Hong Kong"-->
+<!--            name_code="hk"-->
+<!--            phone_code="852" />-->
         <country
             name="Honduras"
             english_name="Honduras"

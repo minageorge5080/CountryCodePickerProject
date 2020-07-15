@@ -1107,11 +1107,11 @@
             english_name="Tuvalu"
             name_code="tv"
             phone_code="688" />
-        <country
-            name="Taiwan"
-            english_name="Taiwan"
-            name_code="tw"
-            phone_code="886" />
+<!--        <country-->
+<!--            name="Taiwan"-->
+<!--            english_name="Taiwan"-->
+<!--            name_code="tw"-->
+<!--            phone_code="886" />-->
         <country
             name="Tanzania"
             english_name="Tanzania, United Republic Of"
